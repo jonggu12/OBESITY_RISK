@@ -8,7 +8,7 @@ echo 'export PATH="$HOME/miniconda/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 
 # 새 Conda 환경 생성 및 활성화
-conda create --name envFirst3 python=3.10
+conda create --name envFirstMini python=3.10
 conda activate envFirst3
 
 # requirements.txt 파일로부터 패키지 설치
