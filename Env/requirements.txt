@@ -5,3 +5,4 @@ matplotlib
 scikit-learn
 tensorflow
 pydot
+lightgbm == 4.3.0
