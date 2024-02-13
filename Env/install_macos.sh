@@ -9,7 +9,7 @@ source ~/.bashrc
 
 # 새 Conda 환경 생성 및 활성화
 conda create --name envFirstMini python=3.10
-conda activate envFirst3
+conda activate envFirstMini
 
 # requirements.txt 파일로부터 패키지 설치
 pip install -r requirements.txt
