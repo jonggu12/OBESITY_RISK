@@ -1,7 +1,10 @@
-numpy
-pandas
 seaborn
+pandas
+numpy
 matplotlib
 scikit-learn
 tensorflow
-pydot
+xgboost
+optuna
+lightgbm
+catboost
